@@ -62,7 +62,6 @@ class main():
         return self.user_item_table
 
     def popularItems(self):
-        ne 
         """
         calculates popular item by grouping the item_ids and counting their ratings
         :return: list of popular items of the website
